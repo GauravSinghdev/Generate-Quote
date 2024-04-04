@@ -67,13 +67,14 @@ body{
     border: none;
 }
 
-.btn1:hover{
-    /* background-color: rgba(0, 0, 255, 0.479); */
-    color: white;
-}
+/* .btn1:hover{
+    background-color: rgba(0, 0, 255, 0.568);
+    
+} */
 .btn1:active{
     border: none;
     background-color: rgba(0, 0, 255, 0.479);
+    color: white;
 }
 
 .btn2{
@@ -83,14 +84,18 @@ body{
     cursor: pointer;
     background-color: rgba(0, 0, 255, 0.322);
     width: 100px;
+    font-size: 15px;
 }
 
-.btn2:hover{
+/* .btn2:hover{
     color: white;
-}
+} */
 .btn2:active{
     border: none;
+    color: white;
     background-color: rgba(0, 0, 255, 0.479);
-    
 }
 
+button i{
+    font-size: 20px;
+}
