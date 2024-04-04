@@ -1,3 +1,3 @@
-# Generate Quote
-Quote Generator Using JavaScript
+# Quate Generator App
+Generate Quotes Using JavaScript
 ## [Website](https://gauravsinghdev.github.io/Generate-Quote/)
